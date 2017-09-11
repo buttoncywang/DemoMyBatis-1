@@ -1,0 +1,11 @@
+[core]
+	bare = false
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+[core]
+	repositoryformatversion = 0
+[remote "SwipeCard"]
+	url = https://github.com/songyaru1991/SwipeCard.git
+	fetch = +refs/heads/*:refs/remotes/SwipeCard/*
